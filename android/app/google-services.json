@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301551458470",
+    "project_id": "apploja-31622",
+    "storage_bucket": "apploja-31622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301551458470:android:2b1267de1fd3bf494c3c67",
+        "android_client_info": {
+          "package_name": "br.com.rodrigues.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301551458470-p7e7dqc1a8d3302gsr5bfcv1ia3tnp1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD15K5u0TSEkGujtaPIF_7hbAJPfVgphlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301551458470-p7e7dqc1a8d3302gsr5bfcv1ia3tnp1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
